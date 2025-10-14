@@ -44,7 +44,11 @@ Este es el stack tecnológico con el que tengo experiencia profesional:
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img align="center" src="github-metrics.svg" alt="Metrics" />
+  <img src="languages.svg" alt="Metrics" />
+</p>
+
+<p align="center">
+  <img src="stats.svg" alt="Metrics" />
 </p>
 
 ---
