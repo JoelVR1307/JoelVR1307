@@ -44,12 +44,7 @@ Este es el stack tecnológico con el que tengo experiencia profesional:
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://github.com/rickstaa/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.rickstaa.vercel.app/api?username=JoelVR1307&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
-  </a>
-  <a href="https://github.com/rickstaa/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.rickstaa.vercel.app/api/top-langs?username=JoelVR1307&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
-  </a>
+  <img align="center" src="metrics.svg" alt="Metrics" />
 </p>
 
 ---
