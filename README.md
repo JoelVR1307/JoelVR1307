@@ -44,12 +44,16 @@ Este es el stack tecnológico con el que tengo experiencia profesional:
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="languages.svg" alt="Metrics" />
+  <img src="github-metrics.svg" alt="Metrics" />
 </p>
 
-<p align="center">
-  <img src="stats.svg" alt="Metrics" />
-</p>
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoelVR1307/JoelVR1307/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelVR1307/JoelVR1307/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoelVR1307/JoelVR1307/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
