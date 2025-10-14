@@ -45,10 +45,10 @@ Este es el stack tecnológico con el que tengo experiencia profesional:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoelVR2103&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&timestamp=1" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoelVR1307&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&timestamp=1" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoelVR2103&layout=compact&langs_count=8&theme=tokyonight&count_private=true&timestamp=1" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoelVR1307&layout=compact&langs_count=8&theme=tokyonight&count_private=true&timestamp=1" />
   </a>
 </p>
 
