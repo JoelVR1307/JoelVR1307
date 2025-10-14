@@ -25,7 +25,12 @@ const cristoferVillanueva = {
         "Diseño de Dashboards para Monitoreo Operativo",
         "Arquitectura de Software Escalable"
     ],
-    descripcion: "Ingeniero de Software orientado a resultados con experiencia probada en el diseño, desarrollo y despliegue de soluciones que optimizan operaciones críticas. Mi especialidad es la construcción de sistemas back-end robustos que procesan y presentan datos complejos, como la integración de telemetría satelital para la toma de decisiones en tiempo real. Apasionado por la arquitectura de software y la mejora continua de procesos.",
+    descripcion: "Ingeniero de Software orientado a resultados con experiencia probada en el diseño,"+
+                 "desarrollo y despliegue de soluciones que optimizan operaciones críticas."+
+                 "Mi especialidad es la construcción de sistemas back-end robustos que procesan"+
+                 "y presentan datos complejos, como la integración de telemetría satelital para la"+
+                 "toma de decisiones en tiempo real. Apasionado por la arquitectura de software y la"+
+                 "mejora continua de procesos.",
     filosofia: "La buena arquitectura de software hace que el sistema sea elocuente y fácil de entender.",
     objetivos: [
         "Aportar en proyectos de alta disponibilidad y criticidad.",
@@ -38,9 +43,27 @@ const cristoferVillanueva = {
 ```  
 ---
 
-### 🚀 Mis Tecnologías y Herramientas
+## 🚀 Mis Tecnologías y Herramientas
 
 Este es el stack tecnológico con el que tengo experiencia profesional:
+### 💻 Lenguajes de Programación
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,python,php,js,java,html,ts" />
+  </a>
+</p>
+### ⚛️ Frontend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,next,redux,bootstrap,tailwind,sass" />
+  </a>
+</p>
+### 🔧 Backend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,laravel,express,fastapi,nest" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
