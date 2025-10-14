@@ -8,16 +8,34 @@
 
 ---
 
-### 👨‍💻 Sobre Mí
+## 👨‍💻 Sobre Mí
 
-Soy **Ingeniero de Software - Analista**, con una sólida experiencia en el ciclo completo de diseño y desarrollo de aplicaciones web y de escritorio. Me especializo en transformar datos complejos en soluciones funcionales e innovadoras.
-
-- 🌊 Actualmente, desarrollo **sistemas web personalizados para flotas pesqueras** en `PERÚ CONTROLS SYSTEM S.A.C`, trabajando con clientes como TASA, AUSTRAL y EXALMAR.
-- 🛰️ Tengo experiencia en la **integración de datos satelitales (XML)** para el monitoreo en tiempo real de variables críticas como ubicación, consumo de combustible y niveles de carga.
-- 💡 He diseñado e implementado **plataformas de alertas técnicas automatizadas** para la detección de fallas en sensores y **dashboards interactivos** para la toma de decisiones estratégicas.
-- 🏥 Anteriormente, participé en el desarrollo de **sistemas de costos para el sector clínico y sanitario** y sistemas de Kardex utilizando C# con MySQL y SQL Server.
-- 🚀 Mi objetivo es seguir aportando a equipos dinámicos, creando soluciones tecnológicas que optimicen el rendimiento operativo y generen un impacto medible.
-  
+```javascript
+const cristoferVillanueva = {
+    ubicacion: "Lima, Perú 🇵🇪",
+    rol: "Ingeniero de Software (con especialización en IA)",
+    experiencia: {
+        resumen: "3 años desarrollando y analizando sistemas de software complejos, desde aplicaciones de escritorio hasta plataformas web de monitoreo en tiempo real.",
+        sectores: ["Marítimo y Pesquero", "Clínico y Sanitario", "Facturación y Ventas"]
+    },
+    enfoque: [
+        "Desarrollo de Sistemas Web a Medida",
+        "Análisis y Gestión de Bases de Datos (SQL Server, MySQL)",
+        "Integración de Datos de Terceros (APIs, XML)",
+        "Diseño de Dashboards para Monitoreo Operativo",
+        "Arquitectura de Software Escalable"
+    ],
+    descripcion: "Ingeniero de Software orientado a resultados con experiencia probada en el diseño, desarrollo y despliegue de soluciones que optimizan operaciones críticas. Mi especialidad es la construcción de sistemas back-end robustos que procesan y presentan datos complejos, como la integración de telemetría satelital para la toma de decisiones en tiempo real. Apasionado por la arquitectura de software y la mejora continua de procesos.",
+    filosofia: "La buena arquitectura de software hace que el sistema sea elocuente y fácil de entender.",
+    objetivos: [
+        "Aportar en proyectos de alta disponibilidad y criticidad.",
+        "Profundizar conocimientos en arquitecturas serverless y cloud.",
+        "Liderar técnicamente el desarrollo de soluciones innovadoras."
+    ],
+    estudiandoActualmente: ["Clean Architecture", "CI/CD con GitHub Actions", "Optimización de Consultas SQL"],
+    datoCurioso: "Disfruto desentrañar la lógica detrás de los flujos de datos complejos, casi tanto como un buen café por la mañana ☕."
+};
+```  
 ---
 
 ### 🚀 Mis Tecnologías y Herramientas
