@@ -106,7 +106,6 @@ nombre: Joel Villanueva Rojas
 ubicacion: Lima, Perú 🇵🇪
 rol: Software Engineer
 email: cristofer.villa.1307@gmail.com
-linkedin: https://www.linkedin.com/in/cristofer-joel-villanueva-rojas-68a37927b/?originalSubdomain=pe
 experiencia: 3 años
 disponibilidad: Abierto a colaboraciones y proyectos interesantes
 ```
