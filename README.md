@@ -77,7 +77,7 @@ Este es el stack tecnológico con el que tengo experiencia profesional:
 ### 🚀 DevOps & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,pycharm,vs,postman,discord,linux,npm,ubuntu,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,pycharm,notion,postman,discord,linux,npm,ubuntu," />
   </a>
 </p>
 
