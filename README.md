@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:3498DB,100:2C3E50&height=250&section=header&text=Cristofer%20V.%20Rojas&fontSize=80&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:3498DB,100:2C3E50&height=250&section=header&text=C%20V%20R&fontSize=80&fontColor=fff&animation=twinkling" />
 </p>
 
 <div id="user-content-toc" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Cristofer+Joel+Villanueva+Rojas;Ingeniero+de+Software+con+Inteligencia+Artificial;Desarrollador+Full-Stack;Analista+de+Sistemas+TI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=C+V+R;Ingeniero+de+Software+con+Inteligencia+Artificial;Desarrollador+Full-Stack;Analista+de+Sistemas+TI" alt="Typing SVG" />
 </div>
 
 ---
