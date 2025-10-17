@@ -109,7 +109,6 @@ email: cristofer.villa.1307@gmail.com
 experiencia: 3 años
 disponibilidad: Abierto a colaboraciones y proyectos interesantes
 ```
---
 
 ### 📫 ¡Conectemos!
 
