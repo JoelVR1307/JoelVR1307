@@ -49,14 +49,14 @@ Este es el stack tecnológico con el que tengo experiencia profesional:
 ### 💻 Lenguajes de Programación
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,python,php,js,java,html,ts" />
+    <img src="https://skillicons.dev/icons?i=python,php,js,java,ts,cs,r" />
   </a>
 </p>
 
 ### ⚛️ Frontend Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,next,redux,bootstrap,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=react,angular,next,redux,bootstrap,tailwind,sass,astro,css,html" />
   </a>
 </p>
 
@@ -70,14 +70,14 @@ Este es el stack tecnológico con el que tengo experiencia profesional:
 ### 🗄️ Bases de Datos
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlserver,postgresql,mongodb,sqlite,redis" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,firebase" />
   </a>
 </p>
 
 ### 🚀 DevOps & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,pycharm,vs,postman" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,pycharm,vs,postman,discord,linux,npm,ubuntu,visualstudio" />
   </a>
 </p>
 
