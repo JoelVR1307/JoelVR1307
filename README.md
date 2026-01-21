@@ -19,8 +19,8 @@ const JoelVR = {
         sectores: ["Marítimo y Pesquero", "Clínico y Sanitario", "Facturación y Ventas"]
     },
     enfoque: [
-        "Desarrollo de Sistemas Web a Medida",
-        "Análisis y Gestión de Bases de Datos (SQL Server, MySQL)",
+        "Desarrollo de Sistemas Web, de escritorio o móviles a Medida",
+        "Análisis y Gestión de Bases de Datos (SQL Server, MySQL, PostgreSQL, etc)",
         "Integración de Datos de Terceros (APIs, XML)",
         "Diseño de Dashboards para Monitoreo Operativo",
         "Arquitectura de Software Escalable"
@@ -33,11 +33,11 @@ const JoelVR = {
                  "mejora continua de procesos.",
     filosofia: "La buena arquitectura de software hace que el sistema sea elocuente y fácil de entender.",
     objetivos: [
-        "Aportar en proyectos de alta disponibilidad y criticidad.",
-        "Profundizar conocimientos en arquitecturas serverless y cloud.",
-        "Liderar técnicamente el desarrollo de soluciones innovadoras."
+        "Participar activamente en equipos de desarrollo de software, aportando soluciones eficientes y de calidad.",
+        "Contribuir al desarrollo de proyectos de alto impacto, aplicando buenas prácticas y metodologías modernas.",
+        "Profundizar continuamente en Arquitectura de Software y en nuevas tecnologías para fortalecer mis competencias profesionales."
+    
     ],
-    estudiandoActualmente: ["Clean Architecture", "CI/CD con GitHub Actions", "Optimización de Consultas SQL"],
     datoCurioso: "Disfruto desentrañar la lógica detrás de los flujos de datos complejos, casi tanto como un buen café por la mañana ☕."
 };
 ```  
